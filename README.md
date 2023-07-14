@@ -12,3 +12,9 @@
 演示：
 
 ![huitu](demo/huitu.gif)
+
+### 3、SqliteCurdDemo（winform）
+介绍: 使用Sqlite数据库；包含增删查改、导出功能。
+演示：
+
+![huitu](demo/sqliteDemo.gif)

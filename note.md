@@ -26,3 +26,4 @@ C#引入了新的XML注释，即我们在某个函数前新起一行，输入///
 停止调试 　　　　 Shift+F5
 ```
 
+sqllite 删除带自增的数据 ：https://www.cnblogs.com/oneforyou/p/9647335.html
