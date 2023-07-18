@@ -18,3 +18,10 @@
 演示：
 
 ![huitu](demo/sqliteDemo.gif)
+
+### 4、TcpDemo（WCF、WPF，TCP应用）
+介绍: 简单的多任务群发聊天程序(WCF、WPF，TCP应用)：服务端监听，转发消息；客户端登录、发送消息、图片的功能。
+演示：
+
+![tcp](demo/tcpDemo.gif)
+
