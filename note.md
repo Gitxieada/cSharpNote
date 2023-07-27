@@ -1,4 +1,4 @@
-##　笔记:
+##　C# 笔记:
 
 ### 学习资料
 [官方教程](https://learn.microsoft.com/zh-cn/visualstudio/get-started/csharp/?view=vs-2019)
@@ -27,3 +27,7 @@ C#引入了新的XML注释，即我们在某个函数前新起一行，输入///
 ```
 
 sqllite 删除带自增的数据 ：https://www.cnblogs.com/oneforyou/p/9647335.html
+
+##　C++ 笔记:
+使用5.14.2版本,https://download.qt.io/archive/qt/5.14/5.14.2/
+书籍：《Qt5开发及实例》
